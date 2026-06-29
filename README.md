@@ -32,18 +32,6 @@ IT professional and software developer. I spend my days in systems administratio
 
 ---
 
-### Projects
-
-| Project | Description |
-|---|---|
-| [MatchExec](https://github.com/slamanna212/MatchExec) | Self-hosted video game tournament manager built with Next.js and Docker |
-| [Slamanna.food](https://slamanna.food) | AstroJS based recipe website that runs on Cloudflare's global network |
-| [DiscordBirthdayBot](https://github.com/slamanna212/DiscordBirthdayBot) | Self-hosted Discord bot for tracking and announcing birthdays |
-| [HomelabAnsible](https://github.com/slamanna212/HomelabAnsible) | Ansible playbooks for my Proxmox homelab cluster |
-| [HomelabArgoCD](https://github.com/slamanna212/HomelabArgoCD) | ArgoCD GitOps for my Kubernetes cluster |
-
----
-
 ### Connect
 
 [![Website](https://img.shields.io/badge/slamanna.com-000000?style=flat&logo=safari&logoColor=white)](https://slamanna.com)
