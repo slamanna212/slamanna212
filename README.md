@@ -34,4 +34,4 @@ IT professional and software developer. I spend my days in systems administratio
 
 ### Connect
 
-[![Website](https://img.shields.io/badge/slamanna.com-000000?style=flat&logo=safari&logoColor=white)](https://slamanna.com)
+[![Website](https://img.shields.io/badge/slamanna.com-000000?style=flat&logo=safari&logoColor=white)](https://slamanna.com/links)
