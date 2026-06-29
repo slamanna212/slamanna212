@@ -1,16 +1,49 @@
-## Hi there 👋
+# Sam
 
-<!--
-**slamanna212/slamanna212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT professional and software developer. I spend my days in systems administration and my free time building web apps, Discord bots, and homelab automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Frameworks & Tools**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+
+**Infrastructure**
+
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=windows&logoColor=white)
+
+---
+
+### Projects
+
+| Project | Description |
+|---|---|
+| [MatchExec](https://github.com/slamanna212/MatchExec) | Self-hosted video game tournament manager built with Next.js and Docker |
+| [Slamanna.food](https://slamanna.food) | AstroJS based recipe website that runs on Cloudflare's global network |
+| [DiscordBirthdayBot](https://github.com/slamanna212/DiscordBirthdayBot) | Self-hosted Discord bot for tracking and announcing birthdays |
+| [HomelabAnsible](https://github.com/slamanna212/HomelabAnsible) | Ansible playbooks for my Proxmox homelab cluster |
+| [HomelabArgoCD](https://github.com/slamanna212/HomelabArgoCD) | ArgoCD GitOps for my Kubernetes cluster |
+
+---
+
+### Connect
+
+[![Website](https://img.shields.io/badge/slamanna.com-000000?style=flat&logo=safari&logoColor=white)](https://slamanna.com)
