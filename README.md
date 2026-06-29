@@ -1,6 +1,6 @@
 # Sam
 
-IT professional and software developer. I spend my days in systems administration and my free time building web apps, Discord bots, and homelab automation.
+IT professional and software developer. I spend my days in systems administration and my free time building web apps, Discord bots, and automating my homelab.
 
 ---
 
