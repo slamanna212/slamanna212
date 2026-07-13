@@ -29,9 +29,3 @@ IT professional and software developer. I spend my days in systems administratio
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat&logo=windows&logoColor=white)
 ![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=flat&logo=windows&logoColor=white)
-
----
-
-### Connect
-
-[![Website](https://img.shields.io/badge/slamanna.com-000000?style=flat&logo=safari&logoColor=white)](https://slamanna.com/links)
